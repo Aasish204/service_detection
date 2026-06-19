@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+models
+*.keras
+.git
+.gitignore
+Dockerfile
+
+node_modules
