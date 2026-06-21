@@ -4,5 +4,4 @@ numpy
 pillow
 python-multipart
 tensorflow==2.21.0
-keras==3.14.1
 huggingface_hub
